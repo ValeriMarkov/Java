@@ -1,6 +1,6 @@
-package com.api.main.city;
+package edu.itstep.cityadder.city;
 
-import com.api.main.city.Exception.CityNotFoundException;
+import edu.itstep.cityadder.city.Exception.CityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

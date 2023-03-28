@@ -1,4 +1,4 @@
-package com.api.main.city;
+package edu.itstep.cityadder.city;
 
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;

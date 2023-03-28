@@ -1,4 +1,4 @@
-package com.api.main.city.Exception;
+package edu.itstep.cityadder.city.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

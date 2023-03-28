@@ -1,4 +1,4 @@
-package com.api.main.city;
+package edu.itstep.cityadder.city;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

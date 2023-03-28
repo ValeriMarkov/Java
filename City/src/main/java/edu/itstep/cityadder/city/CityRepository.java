@@ -1,4 +1,4 @@
-package com.api.main.city;
+package edu.itstep.cityadder.city;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
