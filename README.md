@@ -1,6 +1,7 @@
 # Java
 Java project
 
+Sorry for the awful scheme.
 
 To run the application, you need to:
 
