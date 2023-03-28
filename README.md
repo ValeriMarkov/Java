@@ -1,5 +1,5 @@
 # Java
-Java projects
+Java project
 
 
 To run the application, you need to:
