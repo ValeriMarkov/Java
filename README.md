@@ -14,6 +14,7 @@ To run the application, you need to:
     c) modify password to your account's password - spring.datasource.password=123123
 
 3) Open PostgreSQL's shell, and enter the following commands:
+
     a) CREATE DATABASE city;
 
     b) GRAND ALL PRIVILEGES ON DATABASE "city" TO yourusername
