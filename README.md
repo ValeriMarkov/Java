@@ -7,11 +7,11 @@ To run the application, you need to:
 1) Open the project in intellij
 2) Modify the following in application.proporties:
 
-    a) Change the port number, to the one you use in PostgreSQL - spring.datasource.url=jdbc:postgresql://localhost:5432/city
+    a) Change the port number, to the one you use in PostgreSQL - spring.datasource.url=jdbc:postgresql://localhost:PORT/city
 
-    b) modify the username, to yours - spring.datasource.username=postgres
+    b) modify the username, to yours - spring.datasource.username=USERNAME
 
-    c) modify password to your account's password - spring.datasource.password=123123
+    c) modify password to your account's password - spring.datasource.password=PASSWORD
 
 3) Open PostgreSQL's shell, and enter the following commands:
 
