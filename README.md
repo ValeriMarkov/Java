@@ -23,3 +23,7 @@ To run the application, you need to:
     c) \c city
 
 4) Launch the project from CityApplication
+
+5) Open this link in a browser, with your configured PORT:
+
+http://localhost:8080/api/v1/cities
